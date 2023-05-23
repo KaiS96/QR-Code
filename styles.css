@@ -1,0 +1,43 @@
+/* header */
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+
+  html, body {
+    height: 100%;
+  }
+
+  body {
+    background-color: hsl(212, 45%, 89%);
+  }
+
+  p {
+    font-size: 15px;
+    font-weight: 200;
+  }
+
+  .card-body {
+    color: hsl(220, 15%, 55%);
+  }
+  
+  .card-title {
+    color: hsl(218, 44%, 22%);
+  }
+
+  .card-font {
+    font-family: 'Outfit', sans-serif;
+  }
+
+  /* media query */
+  @media only screen and (min-width: 375px) {
+    
+  }
+
+  @media only screen and (max-width: 1440px) {
+    
+  }
