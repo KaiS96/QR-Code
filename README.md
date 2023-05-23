@@ -24,7 +24,7 @@ Practice with HTML, CSS, and Bootstrap by making a simple QR Code.
 
 ### Links
 
-- Live Site URL: [Deployed]([https://your-live-site-url.com](https://tourmaline-squirrel-d05448.netlify.app/)
+- Live Site URL: [Deployed](https://tourmaline-squirrel-d05448.netlify.app/)
 
 ## My process
 
